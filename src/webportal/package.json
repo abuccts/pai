@@ -97,7 +97,7 @@
     "copy-webpack-plugin": "~5.0.1",
     "css-loader": "^2.1.1",
     "cssnano": "^4.1.10",
-    "ejs-loader": "~0.3.0",
+    "ejs-loader": "~0.3.5",
     "envsub": "^4.0.7",
     "eslint": "^6.2.2",
     "eslint-config-prettier": "^6.1.0",
