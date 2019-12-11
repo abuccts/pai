@@ -42,7 +42,7 @@
     "eslint-config-google": "~0.9.1",
     "express": "~4.16.2",
     "fs-extra": "~7.0.1",
-    "http-errors": "~1.6.3",
+    "http-errors": "~1.7.3",
     "http-proxy-middleware": "^0.20.0",
     "joi": "~13.0.1",
     "js-yaml": "^3.13.1",
