@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@elastic/elasticsearch": "^7.4.0",
-    "ajv": "^6.10.0",
+    "ajv": "^6.10.2",
     "ajv-merge-patch": "~4.1.0",
     "async": "~2.5.0",
     "axios": "^0.18.1",
